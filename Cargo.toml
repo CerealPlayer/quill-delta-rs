@@ -1,5 +1,5 @@
 [package]
-name = "quill-delta-rs"
+name = "delta-rs"
 version = "1.1.1"
 edition = "2021"
 license = "MIT"
